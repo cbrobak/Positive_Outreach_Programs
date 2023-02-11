@@ -1,0 +1,2 @@
+mongoimport --db Pop --collection affirmations --drop --jsonArray --file ./dbSeeds/collection/affirmation.json
+mongoimport --db Pop --collection books --drop --jsonArray --file ./dbSeeds/collection/books.json
