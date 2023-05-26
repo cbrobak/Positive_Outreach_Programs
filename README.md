@@ -36,7 +36,7 @@
 
 ## Support ##
 ### Bug Reporting ###
-- I will be continuing to update this project on a weekly basis as I am able. Please feel free to email your suggestions to me at `jacob.robak.147112@tlm.cloud`.
+- I will be continuing to update this project on a weekly basis as I am able. Please feel free to email your suggestions to me at `cbrobak79@gmail.com`.
 
 ---
 
